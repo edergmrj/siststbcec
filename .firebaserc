@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "guresende",
+    "learnup-prod": "learnupschool",
+    "prox-prod": "projetoxagencia",
+    "resende": "guresende"
+  },
+  "targets": {
+    "projetoxagencia": {
+      "hosting": {
+        "prox-prod": [
+          "escola-react"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "cSpell.words": [
+        "notistack"
+    ]
+}
